@@ -1,5 +1,10 @@
 # atannex/generator
 
+[![Tests](https://github.com/atannex/generator/actions/workflows/tests.yml/badge.svg)](https://github.com/atannex/generator/actions/workflows/tests.yml)
+[![PHP](https://img.shields.io/badge/PHP-8.3%2B-777BB4?logo=php&logoColor=white)](composer.json)
+[![Laravel](https://img.shields.io/badge/Laravel-11%20%7C%2012-FF2D20?logo=laravel&logoColor=white)](composer.json)
+[![License: MIT](https://img.shields.io/badge/License-MIT-2ea44f.svg)](LICENSE)
+
 Unique, human-readable codes for Laravel from one small pattern language: staff IDs, department codes, invoice and order numbers, vouchers, tickets, account numbers with check digits.
 
 ```
