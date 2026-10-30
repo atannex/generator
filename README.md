@@ -7,11 +7,3 @@ Creates unique, readable codes for a Laravel app, such as order references, invo
 ```bash
 composer require atannex/generator
 ```
-
-## Documentation
-
-The full guide is in [docs/README.md](docs/README.md).
-
-## License
-
-MIT.
